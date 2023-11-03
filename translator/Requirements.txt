@@ -1,0 +1,2 @@
+translate==3.6.1
+libretranslatepy==2.1.1 
