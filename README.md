@@ -5,4 +5,6 @@
 # there are some image samples of projects in below :
 
 <img src="https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/age%20calculator%20tkinter/age%20calculator%20tkinter.png" alt="sample1">
-#### sample1
+<img src="[https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/age%20calculator%20tkinter/age%20calculator%20tkinter.png](https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/calculator/calculator.png)" alt="sample2">
+<img src="[https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/age%20calculator%20tkinter/age%20calculator%20tkinter.png](https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/tkinter%20position/position.png)" alt="sample3">
+<img src="[https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/age%20calculator%20tkinter/age%20calculator%20tkinter.png](https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/translator/translator.png)https://github.com/ArmitAhas/Colorful-world-with-Tkinter/blob/master/translator/translator.png" alt="sample4">
